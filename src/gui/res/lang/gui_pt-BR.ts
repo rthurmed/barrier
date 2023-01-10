@@ -905,7 +905,7 @@ To automatically trust this fingerprint for future connections, click Yes. To re
         <source>Drag new screens to the grid or move existing ones around.
 Drag a screen to the trashcan to delete it.
 Double click on a screen to edit its settings.</source>
-        <translation type="finished">Arrste novas telas para o grid ou mova as existentes.
+        <translation type="finished">Arraste novas telas para o grid ou mova as existentes.
 Arraste uma tela para a lixeira para remove-la.
 Clique duplo numa tela para editar as suas configurações.</translation>
     </message>
